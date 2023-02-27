@@ -1,9 +1,12 @@
 Soledad
 Leonel
+<<<<<<< HEAD
 Juan
 Raul
 Luna
 Kevin
 Nicolas
 sole
+=======
+>>>>>>> 15cb62fc1a04bcb0ead7cef723f7e221ebf23ce2
 Guillermo
